@@ -1,0 +1,3 @@
+[submodule "layout2im"]
+	path = layout2im
+	url = https://github.com/ManuGar/layout2im.git
